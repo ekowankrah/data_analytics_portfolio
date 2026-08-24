@@ -47,3 +47,10 @@ a caution for anyone drawing conclusions from survey data without checking sampl
 composition first.
 
 Full write-up: [[LinkedIn post]](https://www.linkedin.com/posts/ekow-ankrah-2a6569236_powerbi-dataanalytics-sql-ugcPost-7483816593588842496-oCft/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrQwF4B1S3ukZS3lde-hPhTivUrCUa8YmA))
+
+   ## Dashboards
+   **Raw dataset:**
+   ![Raw dashboard](raw-data-dashboard.png)
+
+   **Balanced sample:**
+   ![Balanced dashboard](balanced-sample-dashboard.png)
