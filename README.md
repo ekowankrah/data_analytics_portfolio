@@ -9,5 +9,3 @@ Below are my featured analytics projects.
 Corrected for gender sampling bias in a 630-respondent salary dataset. The real
 pay gap turned out to be nearly 4x larger than the raw numbers suggested.
 
-## Retail Sales Performance Dashboard
-*(coming soon)*
