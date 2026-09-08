@@ -44,4 +44,4 @@ Chart count should be a consequence of what stakeholders need to decide, not
 a goal on its own. Deciding what to communicate before deciding how to
 visualize it is a habit worth building deliberately.
 
-Full write-up: [LinkedIn post]([your-linkedin-url-here](https://lnkd.in/p/dFRxnX3v))
+Full write-up: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7502673438306811905/)
