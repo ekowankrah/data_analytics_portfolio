@@ -9,3 +9,8 @@ Below are my featured analytics projects.
 Corrected for gender sampling bias in a 630-respondent salary dataset. The real
 pay gap turned out to be nearly 4x larger than the raw numbers suggested.
 
+
+## [Superstore Investment Recommendation](/superstore-investment-analysis)
+**Tools:** Excel, Power Query, Power BI
+Used a communication-first framework to recommend where a business should
+invest, based on profit and growth trends across regions and categories.
